@@ -8,7 +8,7 @@
 
 ## ③DEMO
 
-https://gs-kaede.sakura.ne.jp/scrum/kadai11/login.php
+https://gs-kaede.sakura.ne.jp/kadai11/scrum/login.php
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 管理者
